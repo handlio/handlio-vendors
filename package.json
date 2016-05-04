@@ -1,4 +1,10 @@
 {
   "name": "handlio-vendors",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "The vendors for the handlio-server repository",
+  "main": "index.js",
+  "author": "Ivan Afanasov",
+  "license": "MIT",
+  "repository": "https://github.com/handlio/handlio-vendors.git",
+  "homepage": "https://github.com/handlio/handlio-vendors"
 }
